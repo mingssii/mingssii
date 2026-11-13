@@ -1,0 +1,175 @@
+{
+  "owner": "mingssii",
+  "portfolio_url": "https://mingssii.github.io",
+  "summary": {
+    "total_public_repos": 7,
+    "hygiene_passed": 7,
+    "live_total": 4,
+    "live_ok": 4
+  },
+  "live_checks": [
+    {
+      "url": "https://mingssii.github.io",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "url": "https://mingssii.github.io/daily-dashboard/",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "url": "https://mingssii.github.io/pad-flow-cleaner/",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "url": "https://mingssii.github.io/wheel/",
+      "ok": true,
+      "status": 200
+    }
+  ],
+  "repositories": [
+    {
+      "name": "mingssii.github.io",
+      "html_url": "https://github.com/mingssii/mingssii.github.io",
+      "description": "Landing page for my apps and GitHub work",
+      "language": "HTML",
+      "topics": [
+        "ai-skills",
+        "github-pages",
+        "portfolio",
+        "web-apps"
+      ],
+      "has_pages": true,
+      "homepage": "https://mingssii.github.io",
+      "live_url": "https://mingssii.github.io",
+      "live_check": {
+        "url": "https://mingssii.github.io",
+        "ok": true,
+        "status": 200
+      },
+      "hygiene_issues": []
+    },
+    {
+      "name": "pad-flow-cleaner",
+      "html_url": "https://github.com/mingssii/pad-flow-cleaner",
+      "description": "Clean, redact and visualize Power Automate Desktop flows. Free, open source, runs 100% in your browser.",
+      "language": "HTML",
+      "topics": [
+        "flowchart",
+        "mermaid",
+        "power-automate-desktop",
+        "privacy",
+        "rpa"
+      ],
+      "has_pages": true,
+      "homepage": "https://mingssii.github.io/pad-flow-cleaner/",
+      "live_url": "https://mingssii.github.io/pad-flow-cleaner/",
+      "live_check": {
+        "url": "https://mingssii.github.io/pad-flow-cleaner/",
+        "ok": true,
+        "status": 200
+      },
+      "hygiene_issues": []
+    },
+    {
+      "name": "daily-dashboard",
+      "html_url": "https://github.com/mingssii/daily-dashboard",
+      "description": "Unified Personal Life Dashboard (Finance & Nutrition) — Warm Paper UI, Scalable Sidebar & iOS Medium Widget",
+      "language": "HTML",
+      "topics": [
+        "dashboard",
+        "google-apps-script",
+        "google-sheets",
+        "ios-widget",
+        "personal-finance"
+      ],
+      "has_pages": true,
+      "homepage": "https://mingssii.github.io/daily-dashboard/",
+      "live_url": "https://mingssii.github.io/daily-dashboard/",
+      "live_check": {
+        "url": "https://mingssii.github.io/daily-dashboard/",
+        "ok": true,
+        "status": 200
+      },
+      "hygiene_issues": []
+    },
+    {
+      "name": "mingssii",
+      "html_url": "https://github.com/mingssii/mingssii",
+      "description": "GitHub profile README",
+      "language": "Other",
+      "topics": [
+        "ai-automation",
+        "data-analytics",
+        "github-automation",
+        "portfolio",
+        "python"
+      ],
+      "has_pages": false,
+      "homepage": "https://mingssii.github.io",
+      "live_url": null,
+      "live_check": null,
+      "hygiene_issues": []
+    },
+    {
+      "name": "wheel",
+      "html_url": "https://github.com/mingssii/wheel",
+      "description": "Provably Fair Cryptographic Decision Wheel (Web Crypto CSPRNG + Lemire Rejection Sampling)",
+      "language": "JavaScript",
+      "topics": [
+        "cryptography",
+        "csprng",
+        "decision-wheel",
+        "fairness-testing",
+        "javascript"
+      ],
+      "has_pages": true,
+      "homepage": "https://mingssii.github.io/wheel/",
+      "live_url": "https://mingssii.github.io/wheel/",
+      "live_check": {
+        "url": "https://mingssii.github.io/wheel/",
+        "ok": true,
+        "status": 200
+      },
+      "hygiene_issues": []
+    },
+    {
+      "name": "stock-dtw-lower-bound-evaluation",
+      "html_url": "https://github.com/mingssii/stock-dtw-lower-bound-evaluation",
+      "description": "Reproducible DTW lower-bound evaluation for stock time-series similarity search",
+      "language": "Python",
+      "topics": [
+        "benchmark",
+        "dynamic-time-warping",
+        "python",
+        "similarity-search",
+        "time-series"
+      ],
+      "has_pages": false,
+      "homepage": null,
+      "live_url": null,
+      "live_check": null,
+      "hygiene_issues": []
+    },
+    {
+      "name": "data-science-test",
+      "html_url": "https://github.com/mingssii/data-science-test",
+      "description": "Retail promotion analysis in Python: incremental lift, post-promotion dip, cannibalization and profitability",
+      "language": "Python",
+      "topics": [
+        "data-science",
+        "profitability",
+        "promotion-analysis",
+        "python",
+        "retail-analytics"
+      ],
+      "has_pages": false,
+      "homepage": null,
+      "live_url": null,
+      "live_check": null,
+      "hygiene_issues": []
+    }
+  ]
+}
