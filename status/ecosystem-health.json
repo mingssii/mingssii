@@ -31,6 +31,24 @@
   ],
   "repositories": [
     {
+      "name": "mingssii",
+      "html_url": "https://github.com/mingssii/mingssii",
+      "description": "GitHub profile README",
+      "language": "JavaScript",
+      "topics": [
+        "ai-automation",
+        "data-analytics",
+        "github-automation",
+        "portfolio",
+        "python"
+      ],
+      "has_pages": false,
+      "homepage": "https://mingssii.github.io",
+      "live_url": null,
+      "live_check": null,
+      "hygiene_issues": []
+    },
+    {
       "name": "mingssii.github.io",
       "html_url": "https://github.com/mingssii/mingssii.github.io",
       "description": "Landing page for my apps and GitHub work",
@@ -93,24 +111,6 @@
         "ok": true,
         "status": 200
       },
-      "hygiene_issues": []
-    },
-    {
-      "name": "mingssii",
-      "html_url": "https://github.com/mingssii/mingssii",
-      "description": "GitHub profile README",
-      "language": "Other",
-      "topics": [
-        "ai-automation",
-        "data-analytics",
-        "github-automation",
-        "portfolio",
-        "python"
-      ],
-      "has_pages": false,
-      "homepage": "https://mingssii.github.io",
-      "live_url": null,
-      "live_check": null,
       "hygiene_issues": []
     },
     {
