@@ -1,6 +1,12 @@
 {
   "owner": "mingssii",
   "portfolio_url": "https://mingssii.github.io",
+  "profile_check": {
+    "ok": true,
+    "blog": "https://mingssii.github.io",
+    "has_bio": true,
+    "issues": []
+  },
   "summary": {
     "total_public_repos": 7,
     "hygiene_passed": 7,
@@ -31,6 +37,29 @@
   ],
   "repositories": [
     {
+      "name": "daily-dashboard",
+      "html_url": "https://github.com/mingssii/daily-dashboard",
+      "description": "Unified Personal Life Dashboard (Finance & Nutrition) — Warm Paper UI, Scalable Sidebar & iOS Medium Widget",
+      "language": "HTML",
+      "topics": [
+        "dashboard",
+        "google-apps-script",
+        "google-sheets",
+        "ios-widget",
+        "personal-finance"
+      ],
+      "has_pages": true,
+      "homepage": "https://mingssii.github.io/daily-dashboard/",
+      "live_url": "https://mingssii.github.io/daily-dashboard/",
+      "live_check": {
+        "url": "https://mingssii.github.io/daily-dashboard/",
+        "ok": true,
+        "status": 200
+      },
+      "hygiene_issues": [],
+      "secret_files": []
+    },
+    {
       "name": "mingssii",
       "html_url": "https://github.com/mingssii/mingssii",
       "description": "GitHub profile README",
@@ -46,7 +75,8 @@
       "homepage": "https://mingssii.github.io",
       "live_url": null,
       "live_check": null,
-      "hygiene_issues": []
+      "hygiene_issues": [],
+      "secret_files": []
     },
     {
       "name": "mingssii.github.io",
@@ -67,7 +97,8 @@
         "ok": true,
         "status": 200
       },
-      "hygiene_issues": []
+      "hygiene_issues": [],
+      "secret_files": []
     },
     {
       "name": "pad-flow-cleaner",
@@ -89,29 +120,8 @@
         "ok": true,
         "status": 200
       },
-      "hygiene_issues": []
-    },
-    {
-      "name": "daily-dashboard",
-      "html_url": "https://github.com/mingssii/daily-dashboard",
-      "description": "Unified Personal Life Dashboard (Finance & Nutrition) — Warm Paper UI, Scalable Sidebar & iOS Medium Widget",
-      "language": "HTML",
-      "topics": [
-        "dashboard",
-        "google-apps-script",
-        "google-sheets",
-        "ios-widget",
-        "personal-finance"
-      ],
-      "has_pages": true,
-      "homepage": "https://mingssii.github.io/daily-dashboard/",
-      "live_url": "https://mingssii.github.io/daily-dashboard/",
-      "live_check": {
-        "url": "https://mingssii.github.io/daily-dashboard/",
-        "ok": true,
-        "status": 200
-      },
-      "hygiene_issues": []
+      "hygiene_issues": [],
+      "secret_files": []
     },
     {
       "name": "wheel",
@@ -133,7 +143,8 @@
         "ok": true,
         "status": 200
       },
-      "hygiene_issues": []
+      "hygiene_issues": [],
+      "secret_files": []
     },
     {
       "name": "stock-dtw-lower-bound-evaluation",
@@ -151,7 +162,8 @@
       "homepage": null,
       "live_url": null,
       "live_check": null,
-      "hygiene_issues": []
+      "hygiene_issues": [],
+      "secret_files": []
     },
     {
       "name": "data-science-test",
@@ -169,7 +181,8 @@
       "homepage": null,
       "live_url": null,
       "live_check": null,
-      "hygiene_issues": []
+      "hygiene_issues": [],
+      "secret_files": []
     }
   ]
 }
