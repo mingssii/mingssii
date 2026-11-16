@@ -37,22 +37,21 @@
   ],
   "repositories": [
     {
-      "name": "daily-dashboard",
-      "html_url": "https://github.com/mingssii/daily-dashboard",
-      "description": "Unified Personal Life Dashboard (Finance & Nutrition) — Warm Paper UI, Scalable Sidebar & iOS Medium Widget",
+      "name": "mingssii.github.io",
+      "html_url": "https://github.com/mingssii/mingssii.github.io",
+      "description": "Landing page for my apps and GitHub work",
       "language": "HTML",
       "topics": [
-        "dashboard",
-        "google-apps-script",
-        "google-sheets",
-        "ios-widget",
-        "personal-finance"
+        "ai-skills",
+        "github-pages",
+        "portfolio",
+        "web-apps"
       ],
       "has_pages": true,
-      "homepage": "https://mingssii.github.io/daily-dashboard/",
-      "live_url": "https://mingssii.github.io/daily-dashboard/",
+      "homepage": "https://mingssii.github.io",
+      "live_url": "https://mingssii.github.io",
       "live_check": {
-        "url": "https://mingssii.github.io/daily-dashboard/",
+        "url": "https://mingssii.github.io",
         "ok": true,
         "status": 200
       },
@@ -79,21 +78,22 @@
       "secret_files": []
     },
     {
-      "name": "mingssii.github.io",
-      "html_url": "https://github.com/mingssii/mingssii.github.io",
-      "description": "Landing page for my apps and GitHub work",
+      "name": "daily-dashboard",
+      "html_url": "https://github.com/mingssii/daily-dashboard",
+      "description": "Unified Personal Life Dashboard (Finance & Nutrition) — Warm Paper UI, Scalable Sidebar & iOS Medium Widget",
       "language": "HTML",
       "topics": [
-        "ai-skills",
-        "github-pages",
-        "portfolio",
-        "web-apps"
+        "dashboard",
+        "google-apps-script",
+        "google-sheets",
+        "ios-widget",
+        "personal-finance"
       ],
       "has_pages": true,
-      "homepage": "https://mingssii.github.io",
-      "live_url": "https://mingssii.github.io",
+      "homepage": "https://mingssii.github.io/daily-dashboard/",
+      "live_url": "https://mingssii.github.io/daily-dashboard/",
       "live_check": {
-        "url": "https://mingssii.github.io",
+        "url": "https://mingssii.github.io/daily-dashboard/",
         "ok": true,
         "status": 200
       },
