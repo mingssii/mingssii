@@ -346,7 +346,7 @@ async function main() {
       live_ok: liveChecks.filter((c) => c.ok).length,
     },
     live_checks: liveChecks,
-    repositories: records,
+    repositories: [...records].sort((a, b) => a.name.localeCompare(b.name)),
   };
 
   const readmeChanged = updateReadme(buildPortfolioTable(records));
