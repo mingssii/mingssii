@@ -37,6 +37,48 @@
   ],
   "repositories": [
     {
+      "name": "daily-dashboard",
+      "html_url": "https://github.com/mingssii/daily-dashboard",
+      "description": "Unified Personal Life Dashboard (Finance & Nutrition) — Warm Paper UI, Scalable Sidebar & iOS Medium Widget",
+      "language": "HTML",
+      "topics": [
+        "dashboard",
+        "google-apps-script",
+        "google-sheets",
+        "ios-widget",
+        "personal-finance"
+      ],
+      "has_pages": true,
+      "homepage": "https://mingssii.github.io/daily-dashboard/",
+      "live_url": "https://mingssii.github.io/daily-dashboard/",
+      "live_check": {
+        "url": "https://mingssii.github.io/daily-dashboard/",
+        "ok": true,
+        "status": 200
+      },
+      "hygiene_issues": [],
+      "secret_files": []
+    },
+    {
+      "name": "data-science-test",
+      "html_url": "https://github.com/mingssii/data-science-test",
+      "description": "Retail promotion analysis in Python: incremental lift, post-promotion dip, cannibalization and profitability",
+      "language": "Python",
+      "topics": [
+        "data-science",
+        "profitability",
+        "promotion-analysis",
+        "python",
+        "retail-analytics"
+      ],
+      "has_pages": false,
+      "homepage": null,
+      "live_url": null,
+      "live_check": null,
+      "hygiene_issues": [],
+      "secret_files": []
+    },
+    {
       "name": "mingssii",
       "html_url": "https://github.com/mingssii/mingssii",
       "description": "GitHub profile README",
@@ -78,29 +120,6 @@
       "secret_files": []
     },
     {
-      "name": "daily-dashboard",
-      "html_url": "https://github.com/mingssii/daily-dashboard",
-      "description": "Unified Personal Life Dashboard (Finance & Nutrition) — Warm Paper UI, Scalable Sidebar & iOS Medium Widget",
-      "language": "HTML",
-      "topics": [
-        "dashboard",
-        "google-apps-script",
-        "google-sheets",
-        "ios-widget",
-        "personal-finance"
-      ],
-      "has_pages": true,
-      "homepage": "https://mingssii.github.io/daily-dashboard/",
-      "live_url": "https://mingssii.github.io/daily-dashboard/",
-      "live_check": {
-        "url": "https://mingssii.github.io/daily-dashboard/",
-        "ok": true,
-        "status": 200
-      },
-      "hygiene_issues": [],
-      "secret_files": []
-    },
-    {
       "name": "pad-flow-cleaner",
       "html_url": "https://github.com/mingssii/pad-flow-cleaner",
       "description": "Clean, redact and visualize Power Automate Desktop flows. Free, open source, runs 100% in your browser.",
@@ -117,29 +136,6 @@
       "live_url": "https://mingssii.github.io/pad-flow-cleaner/",
       "live_check": {
         "url": "https://mingssii.github.io/pad-flow-cleaner/",
-        "ok": true,
-        "status": 200
-      },
-      "hygiene_issues": [],
-      "secret_files": []
-    },
-    {
-      "name": "wheel",
-      "html_url": "https://github.com/mingssii/wheel",
-      "description": "Provably Fair Cryptographic Decision Wheel (Web Crypto CSPRNG + Lemire Rejection Sampling)",
-      "language": "JavaScript",
-      "topics": [
-        "cryptography",
-        "csprng",
-        "decision-wheel",
-        "fairness-testing",
-        "javascript"
-      ],
-      "has_pages": true,
-      "homepage": "https://mingssii.github.io/wheel/",
-      "live_url": "https://mingssii.github.io/wheel/",
-      "live_check": {
-        "url": "https://mingssii.github.io/wheel/",
         "ok": true,
         "status": 200
       },
@@ -166,21 +162,25 @@
       "secret_files": []
     },
     {
-      "name": "data-science-test",
-      "html_url": "https://github.com/mingssii/data-science-test",
-      "description": "Retail promotion analysis in Python: incremental lift, post-promotion dip, cannibalization and profitability",
-      "language": "Python",
+      "name": "wheel",
+      "html_url": "https://github.com/mingssii/wheel",
+      "description": "Provably Fair Cryptographic Decision Wheel (Web Crypto CSPRNG + Lemire Rejection Sampling)",
+      "language": "JavaScript",
       "topics": [
-        "data-science",
-        "profitability",
-        "promotion-analysis",
-        "python",
-        "retail-analytics"
+        "cryptography",
+        "csprng",
+        "decision-wheel",
+        "fairness-testing",
+        "javascript"
       ],
-      "has_pages": false,
-      "homepage": null,
-      "live_url": null,
-      "live_check": null,
+      "has_pages": true,
+      "homepage": "https://mingssii.github.io/wheel/",
+      "live_url": "https://mingssii.github.io/wheel/",
+      "live_check": {
+        "url": "https://mingssii.github.io/wheel/",
+        "ok": true,
+        "status": 200
+      },
       "hygiene_issues": [],
       "secret_files": []
     }
